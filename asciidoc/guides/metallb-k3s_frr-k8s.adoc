@@ -20,7 +20,8 @@ In this guide, we demonstrate how to deploy MetalLB in layer 3 FRR-K8s BGP mode.
 == MetalLB on K3s (using FRR-K8s)
 [NOTE]
 ====
-FRR-K8s is currently a Technology Preview feature.
+FRR-K8s is currently a Technology Preview feature. Community documentation of
+FRR-K8s is https://github.com/metallb/frr-k8s/[here].
 ====
 
 In this quick start, FRR-K8s mode is used.
